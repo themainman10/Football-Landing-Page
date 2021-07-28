@@ -10,8 +10,11 @@
 
 
 #jumbo{
+    background-image: url("https://media.lasvegassun.com/media/img/photos/2019/08/09/20190724_SUN_HSFB_014_t653.jpg?214bc4f9d9bd7c08c7d0f6599bb3328710e01e7b");
     color: white;
     background-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .jum-1{
